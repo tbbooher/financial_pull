@@ -1,6 +1,6 @@
 # FinancialPull
 
-TODO: Write a gem description
+This gem pulls in your financial data
 
 ## Installation
 
