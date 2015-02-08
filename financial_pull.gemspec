@@ -29,4 +29,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'pry-remote'
   spec.add_development_dependency 'pry-nav'
   spec.add_development_dependency 'coveralls'
+  spec.add_development_dependency 'rb-fsevent', '~> 0.9.1'
+  # spec.add_runtime_dependency 'ofx_for_ruby', git: 'https://github.com/tbbooher/ofx_for_ruby'
 end

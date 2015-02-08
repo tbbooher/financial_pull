@@ -2,6 +2,10 @@
 
 This gem pulls in your financial data
 
+[![Coverage Status](https://coveralls.io/repos/tbbooher/financial_pull/badge.svg)](https://coveralls.io/r/tbbooher/financial_pull)
+
+[![Build Status](https://travis-ci.org/tbbooher/financial_pull.svg)](https://travis-ci.org/tbbooher/financial_pull)
+
 ## Installation
 
 Add this line to your application's Gemfile:
